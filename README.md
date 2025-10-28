@@ -1,3 +1,7 @@
+## Identitas 
+Nama : Lilis Thalisa
+Nim : 362458302020
+
 ## Tujuan Praktikum
 	Tujuan praktikum ini adalah:
     1.	Memahami konsep dasar API (Application Programming Interface) dan REST API.
@@ -18,14 +22,20 @@
     1.	Membuat Proyek flutter  Baru
     flutter create praktikum_api_crud
     2.	Menambahkan Depedency
-    
+<img width="174" height="80" alt="image" src="https://github.com/user-attachments/assets/d62a5d87-326d-46ae-af55-762c3fa26012" />
+
     3.	Membuat user model
-    
+<img width="624" height="508" alt="image" src="https://github.com/user-attachments/assets/17fe0280-0005-42db-8d1b-ec2e42f79291" />
+
     4.	Membuat api service
-    
-    
+<img width="624" height="370" alt="image" src="https://github.com/user-attachments/assets/be93e5d8-638a-4617-9b8d-e2c97a7cb367" />
+<img width="624" height="354" alt="image" src="https://github.com/user-attachments/assets/add69d8b-f6f6-4926-a0bc-6c190ae9437d" />
 
     5.	Menampilkan hasil
+<img width="389" height="864" alt="image" src="https://github.com/user-attachments/assets/5a47283b-a21f-4c11-90bb-c577da2bc74b" />
+<img width="389" height="864" alt="image" src="https://github.com/user-attachments/assets/00036b37-a507-468a-9534-b37155a8305b" />
+
+
 
 ## Analisis Kode (jelaskan bagian-bagian penting dari kode Anda).
     1.	fetchUsers() digunakan untuk mengambil data dari API menggunakan metode GET.
@@ -35,7 +45,7 @@
 
 ## Kesimpulan dan Saran.
     •	Kesimpulan 
-    Dari praktikum diatas bisa disumpulkan bahwa flutter dapat berinteraksi dengan API eksternal menggunakan package http untuk melakukan Crud. Proyek parktikum_api_crud berjalan dengan baik dan membantu memahami cara mengelola data secara real-time.
+    Dari praktikum diatas bisa disumpulkan bahwa flutter dapat berinteraksi dengan API eksternal 	menggunakan package http untuk melakukan Crud. Proyek parktikum_api_crud berjalan dengan baik dan membantu memahami cara mengelola data secara real-time.
     •	Saran 
     Kedepannya apikasi bisa ditambahkan fitur data biar lebih praktis, terus juga pegecekan input supaya ngak ada data kosong atau salah masuk. Selain itu, tampilan aplikasinya bisa dibuat lebih menarik dan rapi bair nyaman dipakai.
 
