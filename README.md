@@ -1,6 +1,6 @@
 ## Identitas 
 Nama : Lilis Thalisa
-Nim : 362458302020
+	Nim : 362458302020
 
 ## Tujuan Praktikum
 	Tujuan praktikum ini adalah:
